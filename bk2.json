@@ -18,7 +18,7 @@
   "marketing": {
     "primaryImage": "/products/images/sb5.webp",
     "fallbackImage": "/products/images/fallback/sb5.png",
-    "description": "The SB5 is a highly accurate, low profile, bending beam load cell; available in a wide range of capacities. Full stainless steel construction combined with high performance potting ensures reliable accuracy and robustness in harsh industrial applications where fully hermetic sealing is not required. The SB5 is the ideal choice for high accuracy weighing platforms due to the blind-hole load introduction arrangement combined with the self-aligning feet. Fully interchangeable with the hermetically sealed SB4.",
+    "description": "The SB5 is a highly accurate, low profile, bending beam load cell,"
     "keyFeatures": [
       "Stainless steel construction",
       "Environmentally sealed by potting",
@@ -76,13 +76,6 @@
         "icon": "/approvalIcons/fm.svg",
         "url": "https://www.fmapprovals.com",
         "detail": "FM hazardous area approval"
-      },
-      {
-        "id": "kcs",
-        "name": "FM",
-        "icon": "/approvalIcons/kcs.svg",
-        "url": "https://miis.kosha.or.kr/oshci/eng/busi/KCsInfo.do",
-        "detail": "Kosha KCS approval for Korea."
       }
     ],
     "options": [],
