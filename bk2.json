@@ -11,7 +11,7 @@
     "developmentStage": "production",
     "revision": {
       "major": 1,
-      "minor": 0,
+      "minor": 1,
       "patch": 0
     }
   },
@@ -23,7 +23,8 @@
       "Stainless steel construction",
       "Environmentally sealed by potting",
       "Low profile",
-      "Wide range of capacities"
+      "Wide range of capacities",
+      "Added a key feature"
     ],
     "applications": [
       "Platform weighing machines",
