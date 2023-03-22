@@ -10,7 +10,7 @@
     "isLive": true,
     "developmentStage": "production",
     "revision": {
-      "major": 1,
+      "major": 2,
       "minor": 0,
       "patch": 0
     }
@@ -22,8 +22,7 @@
     "keyFeatures": [
       "Stainless steel construction",
       "Environmentally sealed by potting",
-      "Low profile",
-      "Wide range of capacities"
+      "Low profile"
     ],
     "applications": [
       "Platform weighing machines",
